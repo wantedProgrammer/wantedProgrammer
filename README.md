@@ -6,9 +6,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanaka-sedze)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanakasedze7@gmail.com)
-[![Horizon](https://img.shields.io/badge/Live_Project-Horizon-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://finance-tracker-wheat-eight.vercel.app)
 
-![Profile views](https://komarev.com/ghpvc/?username=wantedProgrammer&color=green)
+
+
 
 </div>
 
