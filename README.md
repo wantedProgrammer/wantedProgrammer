@@ -2,7 +2,7 @@
 
 # Hi, I'm Tanaka 👋
 
-**Full-stack developer · Computer Science & Electronics student**
+**Software Engineer · Full-stack · Computer Science & Electronics student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanaka-sedze)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanakasedze7@gmail.com)
