@@ -94,9 +94,8 @@ I am currently studying for a BSc in Computer Science and Electronics at North-W
 
 <div align="center">
 
-![Tanaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=wantedProgrammer&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wantedProgrammer&layout=donut&theme=transparent)](https://github.com/wantedProgrammer)
-
+![Tanaka's GitHub stats](https://github-stats-extended.vercel.app/api?username=wantedProgrammer&show_icons=true&theme=transparent)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wantedProgrammer&layout=donut&theme=transparent)](https://github.com/wantedProgrammer)
 </div>
 
 ---
