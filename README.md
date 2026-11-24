@@ -31,7 +31,7 @@ I am currently studying for a BSc in Computer Science and Electronics at North-W
 |---|---|---|
 | [**Horizon**](https://github.com/wantedProgrammer/finance-tracker) | Personal finance tracker with PDF statement import and Investec API sync. [Live demo](https://finance-tracker-wheat-eight.vercel.app) | Next.js, TypeScript, Hono, Drizzle, Neon |
 | [**CSVTS**](https://github.com/wantedProgrammer/Community-Service-Volunteer-Tracking-System) | Volunteer management system for NGOs with role-based dashboards and reports | Java, Spring Boot, Thymeleaf, PostgreSQL |
-| [**AI Object Detection Lab**](https://github.com/wantedProgrammer/AI_Object_Detection_Lab) | Object detection and tracking on images, video and webcam | Python, YOLOv8, OpenCV |
+| [**Fantasy Football Predictor**](https://github.com/wantedProgrammer/fantasy-football-predictor) | Picks the best FPL and Champions League Fantasy team every gameweek, with projections, captain picks and fixture analytics | TypeScript, NestJS, GraphQL, TypeORM, React, Vite |
 | [**Computer Networks**](https://github.com/wantedProgrammer/Computer-Networks) | Segmented studio network with VLANs, NAT, ACLs and SSHv2 | Cisco Packet Tracer, Cisco IOS |
 
 ---
@@ -87,16 +87,6 @@ I am currently studying for a BSc in Computer Science and Electronics at North-W
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=for-the-badge&logo=retool&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Tanaka's GitHub stats](https://github-stats-extended.vercel.app/api?username=wantedProgrammer&show_icons=true&theme=transparent)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wantedProgrammer&layout=donut&theme=transparent)](https://github.com/wantedProgrammer)
-</div>
 
 ---
 
